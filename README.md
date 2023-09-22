@@ -4,6 +4,7 @@
 #
 <h3><b>¤ Table of contents ¤</b></h3>
 
-1) <b>How to use</b>
-2) <b>Introduction</b>
-3) <b>Instructions</b>
+1) <b>Introduction</b>
+
+<p align="center">The main goal of "born2beroot" is to learn how to use and get comfortable with Virtual Machines, more specifically, "VirtualBox" under strict specifications, and at the end create
+  our own OS. </p>
